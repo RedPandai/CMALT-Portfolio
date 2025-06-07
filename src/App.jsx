@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
-import Operational from "./pages/operational";
+import Operational from "./pages/Operational";
 import Learning from "./pages/Learning";
 import Wider from "./pages/Wider";
 import Communicate from "./pages/Communicate";

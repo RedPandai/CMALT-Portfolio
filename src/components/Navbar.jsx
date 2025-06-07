@@ -15,17 +15,26 @@ function Navbar() {
             <Link to="/" className="hover:underline">
               Home
             </Link>
-            <Link to="/teaching" className="hover:underline">
-              Teaching
+            <Link to="/operational-issues" className="hover:underline">
+              Operational Issues
             </Link>
-            <Link to="/experience" className="hover:underline">
-              Experience
+            <Link
+              to="/learning-teaching-and-assessment"
+              className="hover:underline"
+            >
+              Learning Teaching and Assessment
             </Link>
-            <Link to="/projects" className="hover:underline">
-              Projects
+            <Link to="/wider-context" className="hover:underline">
+              The Wider Context
             </Link>
-            <Link to="/publications" className="hover:underline">
-              Publications
+            <Link
+              to="/communication-working-with-others"
+              className="hover:underline"
+            >
+              Communicate and Working with Others
+            </Link>
+            <Link to="/specialist-area" className="hover:underline">
+              Specialist
             </Link>
           </div>
           <div className="md:hidden">
